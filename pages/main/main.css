@@ -1,0 +1,22 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    max-width: 900px;
+    margin: auto;
+}
+
+.header{
+    width: 100%;
+}
+
+.theme {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.creators {
+    text-align: end;
+    margin-bottom: 40px;
+}

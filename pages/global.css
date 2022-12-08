@@ -1,0 +1,32 @@
+.nav a {
+    text-decoration: none;
+}
+
+.title {
+    text-align: center;
+}
+
+.quote {
+    border-left: solid red 2px;
+    padding-left: 10px;
+    font-size: 20px;
+  }
+
+.quote .text {
+    font-style: italic;
+}
+  
+.quote .source {
+    text-align: right;
+}
+
+.block {
+    padding: 10px;
+    border-radius: 6px;
+    background-color: #f3f2f2;
+}
+
+.block img {
+    margin: auto;
+    display: block;
+}
